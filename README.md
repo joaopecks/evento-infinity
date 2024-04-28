@@ -1,2 +1,0 @@
-# evento-infinity
-evento infintiy
